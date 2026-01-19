@@ -1,10 +1,4 @@
 # Python-Workshop
-Quick! I need to sharpen up my Python skills!
-
-Plan of Action
-make a commit daily over the next two weeks  
-Fetch an AI API? - quick look, due date Tuesday Dec 23  
-program my own chess engine AI! - long term project, due date Friday Jan 2  
 
 git skills learned  
 git init  
